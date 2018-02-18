@@ -1,5 +1,9 @@
 {
   "name": "Simple To-Do List",
   "version": "0.1.0",
-  "main": "main.js"
+  "main": "main.js",
+  "license": "MIT",
+  "description": "Simple To-Do list",
+  "author": "fuchis <fuchi@live.com>",
+  "repository": "https://github.com/fuchis/Simple_TodoList"
 }
